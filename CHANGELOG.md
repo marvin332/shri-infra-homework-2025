@@ -1,3 +1,8 @@
+## 58 - 2025-07-14
+
+- Update README.md
+- chore: update CHANGELOG for release 57
+
 ## 57 - 2025-07-13
 
 - store v2
