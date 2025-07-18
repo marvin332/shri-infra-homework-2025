@@ -1,3 +1,15 @@
+## 63 - 2025-07-18
+
+- Merge pull request #36 from marvin332/test-branch
+- Update about.test.tsx
+- Merge pull request #35 from marvin332/test-branch
+- Update About.tsx
+- Merge pull request #34 from marvin332/releases/62
+- awdaw
+- Merge pull request #32 from marvin332/releases/61
+- color changed to green
+- chore: update CHANGELOG for release 62
+
 ## 62 - 2025-07-18
 
 - color changed to red
