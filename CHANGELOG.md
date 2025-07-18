@@ -1,3 +1,8 @@
+## 59 - 2025-07-18
+
+- color changed
+- chore: update CHANGELOG for release 58
+
 ## 58 - 2025-07-14
 
 - Update README.md
