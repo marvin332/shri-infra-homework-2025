@@ -18,6 +18,7 @@ const store = initStore(api, cart);
 
 const application = (
     <BrowserRouter basename={basename}>
+        awdawdawdawdaw
         <Provider store={store}>
             <Application />
         </Provider>
